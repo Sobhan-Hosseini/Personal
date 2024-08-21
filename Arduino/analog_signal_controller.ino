@@ -1,4 +1,9 @@
-int output;
+/*
+  analog_signal_controller
+  Author: Seyed Sobhan Hosseini
+  Date: ‎Wednesday, ‎July ‎12, ‎2023, ‏‎12:12:27 PM
+*/
+
 void setup(){
   Serial.begin(9600);
   pinMode(A0, INPUT);
