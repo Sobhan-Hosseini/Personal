@@ -2,9 +2,7 @@ int red = 2;
 int green = 4;
 int blue = 7;
 
-
-
-void setup() {
+void setup(){
   Serial.begin(9600);
   pinMode(red, OUTPUT);
   pinMode(green, OUTPUT);
@@ -15,8 +13,8 @@ void setup() {
 
 }
 
-void loop() {
-  delay(500);
+void loop(){
+   delay(500);
    int rb = random(0,255);
    int rg = random(0,255);
    int rr = random(0,255);
