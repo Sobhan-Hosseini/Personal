@@ -5,13 +5,13 @@ long time1 ;
 int a = 1, b = 2, c = 3;
 double dis;
 
-void setup() {
+void setup(){
 pinMode(5, OUTPUT);
 pinMode(6,INPUT);
 Serial.begin(115200);
 }
 
-void loop() {
+void loop(){
   digitalWrite(trig2, LOW);
   delayMicroseconds(2);
   digitalWrite(trig2, HIGH);
