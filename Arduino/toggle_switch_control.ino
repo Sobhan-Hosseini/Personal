@@ -1,11 +1,12 @@
 bool re = false;
 bool flag = true;
-void setup() {
+
+void setup(){
   pinMode(12,INPUT_PULLUP);
   pinMode(8,OUTPUT);
 }
 
-void loop() {
+void loop(){
   if(flag){
     int counter = 0;
     while(digitalRead(12) == 0){
