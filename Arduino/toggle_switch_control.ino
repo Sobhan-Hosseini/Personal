@@ -1,3 +1,9 @@
+/*
+  toggle_switch_control
+  Author: Seyed Sobhan Hosseini
+  Date: Wednesday, ‎July ‎12, ‎2023, ‏‎11:33:23 AM
+*/
+
 bool re = false;
 bool flag = true;
 
