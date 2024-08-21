@@ -1,3 +1,9 @@
+/*
+  pixel_color_shift
+  Author: Seyed Sobhan Hosseini
+  Date: ‎Wednesday, ‎July ‎19, ‎2023, ‏‎3:59:38 PM
+*/
+
 #include <ESP8266WiFi.h>
 #include <Adafruit_NeoPixel.h>
 
