@@ -1,3 +1,9 @@
+/*
+  duty_cycle_analyzer
+  Author: Seyed Sobhan Hosseini
+  Date: Wednesday, ‎July ‎12, ‎2023, ‏‎11:52:03 AM
+*/
+
 double highTime = 0;
 double lowTime = 0;
 unsigned long cycleTime = 0;
