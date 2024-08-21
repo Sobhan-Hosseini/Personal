@@ -1,3 +1,9 @@
+/*
+  color_cycle
+  Author: Seyed Sobhan Hosseini
+  Date: ‎Wednesday, ‎July ‎19, ‎2023, ‏‎2:17:28 PM
+*/
+
 #include <ESP8266WiFi.h>
 #include <Adafruit_NeoPixel.h>
 
