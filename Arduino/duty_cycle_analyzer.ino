@@ -15,27 +15,27 @@ int counter = 2;
 bool state = false;
 void IRAM_ATTR change();
 
-void setup() {
+void setup(){
   Serial.begin(115200);
   pinMode(pin , INPUT);
   attachInterrupt(digitalPinToInterrupt(pin), change, CHANGE);
 }
 
-void loop() {
+void loop(){
   firstTime = micros();
-while(state == true){
-  upTime = micros() - firstTime;
-} 
-start = micros();
-while(state == false){
-  downtime = micros() - start;
-}
- 
-dutyCycle = upTime / (upTime + downtime);
-Serial.println(dutyCycle);
-Serial.println("an");
-}
-
-void IRAM_ATTR change(){
+  while(state == true){
+    upTime = micros() - firstTime;
+  } 
+  start = micros();
+  while(state == false){
+    downtime = micros() - start;
+  }
+   
+  dutyCycle = upTime / (upTime + downtime);
+  Serial.println(dutyCycle);
+  Serial.println("an");
+  }
+  
+  void IRAM_ATTR change(){
   state = !state;
 }
