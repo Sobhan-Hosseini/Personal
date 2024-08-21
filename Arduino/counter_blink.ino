@@ -1,3 +1,9 @@
+/*
+  counter_blink
+  Author: Seyed Sobhan Hosseini
+  Date: ‎Monday, ‎July ‎10, ‎2023, ‏‎6:09:26 PM
+*/
+
 const int ledPin = 13;
 const unsigned long interval = 500;
 int counter = 0;
