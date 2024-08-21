@@ -1,3 +1,9 @@
+/*
+  random_rgb
+  Author: Seyed Sobhan Hosseini
+  Date: ‎Wednesday, ‎July ‎12, ‎2023, ‏‎12:51:24 PM
+*/
+
 int red = 2;
 int green = 4;
 int blue = 7;
