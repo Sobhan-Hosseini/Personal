@@ -8,12 +8,11 @@ int g = 0;
 int b = 0;
 Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
 
-void setup() {
+void setup(){
   strip.begin();
-
 }
 
-void loop() {
+void loop(){
   strip.clear();
   r = 128;
   g = 0;
