@@ -1,3 +1,9 @@
+/*
+  dual_ultrasonic
+  Author: Seyed Sobhan Hosseini
+  Date: Tuesday, ‎July ‎18, ‎2023, ‏‎7:40:57 PM
+*/
+
 int trig1 = 5;
 int trig2 = 8;
 int echo = 6;
