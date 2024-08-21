@@ -88,7 +88,6 @@ for i = 1:iterations_number
         end
         break ; 
     end   
-
 end
 
 subplot(2, 1, 1) ; 
