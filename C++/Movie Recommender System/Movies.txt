@@ -1,0 +1,60 @@
+1	Toy Story	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Toy%20Story%20(1995)	Animation|Children's|Comedy	
+2	GoldenEye	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?GoldenEye%20(1995)	Action|Adventure|Thriller	
+3	Four Rooms	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Four%20Rooms%20(1995)	Thriller	
+4	Get Shorty	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Get%20Shorty%20(1995)	Action|Comedy|Drama	
+5	Copycat	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Copycat%20(1995)	Crime|Drama|Thriller	
+6	Shanghai Triad (Yao a yao yao dao waipo qiao)	1995	01-Jan-1995	http://us.imdb.com/Title?Yao+a+yao+yao+dao+waipo+qiao+(1995)	Drama	
+7	Twelve Monkeys	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Twelve%20Monkeys%20(1995)	Drama|Sci-Fi	
+8	Babe	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Babe%20(1995)	Children's|Comedy|Drama	
+9	Dead Man Walking	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995)	Drama	
+10	Richard III	1995	22-Jan-1996	http://us.imdb.com/M/title-exact?Richard%20III%20(1995)	Drama|War	
+11	Se7en	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Se7en%20(1995)	Crime|Thriller	
+12	The Usual Suspects	1995	14-Aug-1995	http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)	Crime|Thriller	
+13	Mighty Aphrodite	1995	30-Oct-1995	http://us.imdb.com/M/title-exact?Mighty%20Aphrodite%20(1995)	Comedy	
+14	Il Postino: The Postman	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Postino,%20Il%20(1994)	Drama|Romance	
+15	Mr. Holland's Opus	1995	29-Jan-1996	http://us.imdb.com/M/title-exact?Mr.%20Holland's%20Opus%20(1995)	Drama	
+16	French Twist (Gazon maudit)	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Gazon%20maudit%20(1995)	Comedy|Romance	
+17	From Dusk Till Dawn	1996	05-Feb-1996	http://us.imdb.com/M/title-exact?From%20Dusk%20Till%20Dawn%20(1996)	Action|Comedy|Crime|Horror|Thriller	
+18	The White Balloon	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Badkonake%20Sefid%20(1995)	Drama	
+19	Antonia's Line	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Antonia%20(1995)	Drama	
+20	Angels and Insects	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Angels%20and%20Insects%20(1995)	Drama|Romance	
+21	Muppet Treasure Island	1996	16-Feb-1996	http://us.imdb.com/M/title-exact?Muppet%20Treasure%20Island%20(1996)	Action|Adventure|Comedy|Musical|Thriller	
+22	Braveheart	1995	16-Feb-1996	http://us.imdb.com/M/title-exact?Braveheart%20(1995)	Action|Drama|War	
+23	Taxi Driver	1976	16-Feb-1996	http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976)	Drama|Thriller	
+24	Rumble in the Bronx	1995	23-Feb-1996	http://us.imdb.com/M/title-exact?Hong%20Faan%20Kui%20(1995)	Action|Adventure|Crime	
+25	The Birdcage	1996	08-Mar-1996	http://us.imdb.com/M/title-exact?Birdcage,%20The%20(1996)	Comedy	
+26	The Brothers McMullen	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Brothers%20McMullen,%20The%20(1995)	Comedy	
+27	Bad Boys	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Bad%20Boys%20(1995)	Action	
+28	Apollo 13	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Apollo%2013%20(1995)	Action|Drama|Thriller	
+29	Batman Forever	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Batman%20Forever%20(1995)	Action|Adventure|Comedy|Crime	
+30	Belle de Jour	1967	01-Jan-1967	http://us.imdb.com/M/title-exact?Belle%20de%20jour%20(1967)	Drama	
+31	Crimson Tide	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Crimson%20Tide%20(1995)	Drama|Thriller|War	
+32	Crumb	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Crumb%20(1994)	Documentary	
+33	Desperado	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Desperado%20(1995)	Action|Romance|Thriller	
+34	The Doom Generation	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Doom%20Generation,%20The%20(1995)	Comedy|Drama	
+35	Free Willy 2: The Adventure Home	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Free%20Willy%202:%20The%20Adventure%20Home%20(1995)	Adventure|Children's|Drama	
+36	Mad Love	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Mad%20Love%20(1995)	Drama|Romance	
+37	Nadja	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Nadja%20(1994)	Drama	
+38	The Net	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Net,%20The%20(1995)	Sci-Fi|Thriller	
+39	Strange Days	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Strange%20Days%20(1995)	Action|Crime|Sci-Fi	
+40	To Wong Foo Thanks for Everything, Julie Newmar	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?To%20Wong%20Foo,%20Thanks%20for%20Everything!%20Julie%20Newmar%20(1995)	Comedy	
+41	Billy Madison	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Billy%20Madison%20(1995)	Comedy	
+42	Clerks.	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Clerks%20(1994)	Comedy	
+43	Disclosure	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Disclosure%20(1994)	Drama|Thriller	
+44	Dolores Claiborne	1995	01-Jan-1994	http://us.imdb.com/M/title-exact?Dolores%20Claiborne%20(1994)	Drama|Thriller	
+45	Eat Drink Man Woman	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Yinshi%20Nan%20Nu%20(1994)	Comedy|Drama	
+46	Exotica	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Exotica%20(1994)	Drama	
+47	Ed Wood	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Ed%20Wood%20(1994)	Comedy|Drama	
+48	Hoop Dreams	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Hoop%20Dreams%20(1994)	Documentary	
+49	I.Q.	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?I.Q.%20(1994)	Comedy|Romance	
+50	Star Wars	1977	01-Jan-1977	http://us.imdb.com/M/title-exact?Star%20Wars%20(1977)	Action|Adventure|Romance|Sci-Fi|War	
+51	Legends of the Fall	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Legends%20of%20the%20Fall%20(1994)	Drama|Romance|War|Western	
+52	The Madness of King George	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Madness%20of%20King%20George,%20The%20(1994)	Drama	
+53	Natural Born Killers	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Natural%20Born%20Killers%20(1994)	Action|Thriller	
+54	Outbreak	1995	01-Jan-1995	http://us.imdb.com/M/title-exact?Outbreak%20(1995)	Action|Drama|Thriller	
+55	Léon: The Professional	1994	01-Jan-1994	http://us.imdb.com/Title?L%E9on+(1994)	Crime|Drama|Romance|Thriller	
+56	Pulp Fiction	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994)	Crime|Drama	
+57	Priest	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Priest%20(1994)	Drama	
+58	Quiz Show	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Quiz%20Show%20(1994)	Drama	
+59	Three Colors: Red	1994	01-Jan-1994	http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Czerwony%20(1994)	Drama	
+60	Three Colors: Blue	1993	01-Jan-1993	http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Niebieski%20(1993)	Drama
