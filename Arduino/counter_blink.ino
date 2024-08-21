@@ -4,31 +4,31 @@ int counter = 0;
 unsigned long previousTime = 0; 
 bool ledState = false;
 bool pri = false; 
-void setup() {
+void setup(){
   Serial.begin(9600);
   pinMode(ledPin, OUTPUT); 
 }
-void loop() {
+void loop(){
   unsigned long currentTime = millis();
 
-  if (currentTime - previousTime >= interval) {
+  if(currentTime - previousTime >= interval){
     previousTime = currentTime;
     pri = !pri;
-    if (pri) {
+    if(pri){
       Serial.println(counter); 
-    } else {
+    }else{
       counter++; 
     }
-
   }
   
-//  if (currentTime - previousTime >= interval) {
+//  if(currentTime - previousTime >= interval){
 //    previousTime = currentTime; 
 //    ledState = !ledState;
-//    if (ledState) {
+//    if(ledState){
 //      digitalWrite(ledPin, HIGH); 
-//    } else {
+//    }else{
 //      digitalWrite(ledPin, LOW); 
 //    }
 //  }
+
 }
