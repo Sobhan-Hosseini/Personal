@@ -1,5 +1,5 @@
 """
-  Serial Communication between Jetson nx and ESP32
+  Serial Communication between Jetson NX and ESP32
   Authors: Kian Khatibi - Shahriar Karimi Makhsous - Seyed Sobhan Hosseini
   Date: Feb 29, 2024
 """
