@@ -1,0 +1,17 @@
+#include <iostream>
+#include "Image.h"
+
+int main(int args, char** argv){
+	Image test("test.jpg");
+	
+	test.encodeMessage("hello  :)");
+	test.write("SecretMessage.png");
+	
+	char buffer[256] = {0};
+	size_t len = 0;
+	test.decodeMessage(buffer, &len);
+	
+	printf("Message: %s (%zu)\n", buffer, len);
+	
+	return 0;
+}

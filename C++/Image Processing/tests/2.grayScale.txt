@@ -1,0 +1,16 @@
+#include <iostream>
+#include "Image.h"
+
+int main(int args, char** argv){
+	Image test("test.jpg");
+	
+	Image gray_avg = test;
+	gray_avg.grayscale_avg();
+	gray_avg.write("gray_avg.png");
+	
+	Image gray_lum = test;
+	gray_lum.grayscale_lum();
+	gray_lum.write("gray_lum.png");
+	
+	return 0;
+}

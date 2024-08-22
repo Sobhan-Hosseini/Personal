@@ -1,0 +1,10 @@
+#include <iostream>
+#include "Image.h"
+
+int main(int args, char** argv){
+	Image test("test.jpg");
+	test.colorMask(0, 0, 0);
+	test.write("blue.png");
+	
+	return 0;
+}

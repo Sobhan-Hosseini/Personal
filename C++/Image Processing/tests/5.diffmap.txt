@@ -1,0 +1,13 @@
+#include <iostream>
+#include "Image.h"
+
+int main(int args, char** argv){
+	Image test1("blue.png");
+	Image test2("gray_lum.png");
+	
+	Image diff = test1;
+	diff.diffmap(test2);
+	diff.write("diff.png");
+	
+	return 0;
+}
