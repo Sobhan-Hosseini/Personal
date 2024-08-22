@@ -1,7 +1,7 @@
 """
   DecisionTree
   Author: Seyed Sobhan Hosseini
-  Date: sFriday, June 28, 2024, 10:01:54 PM
+  Date: Friday, June 28, 2024, 10:01:54 PM
 """
 
 import time
