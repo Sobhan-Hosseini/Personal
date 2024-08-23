@@ -1,3 +1,9 @@
+/*
+  MinHeap DataStructure
+  Authors: Seyed Sobhan Hosseini - Amirhossein Gholizadeh
+  Date: ‎Friday, ‎August ‎23, ‎2024, ‏‎3:09:17 PM
+*/
+
 #include <iostream>
 #include <cstdint>
 #include <math.h>
