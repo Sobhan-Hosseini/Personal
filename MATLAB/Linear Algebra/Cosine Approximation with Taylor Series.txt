@@ -1,0 +1,16 @@
+%{
+Cosine Approximation with Taylor Series
+Authors: Seyed Sobhan Hosseini
+Date: ‎Friday, ‎May ‎26, ‎2023, ‏‎9:55:22 PM
+%}
+
+x = double.empty;
+for a = -10 : 0.1 : 10
+    sum = 0;
+    for n = 1 : 10
+        sum = sum + ((-1^n) / (2*n-1)) * sin((2*n-1)*a);
+    end
+    x(end+1) = sum;
+end
+
+plot(x , 'r')

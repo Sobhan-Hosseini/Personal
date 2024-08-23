@@ -1,0 +1,50 @@
+%{
+Gaussian Elimination with Partial Pivoting
+Authors: Seyed Sobhan Hosseini
+Date: Friday, ‎May ‎26, ‎2023, ‏‎10:01:07 PM
+%}
+
+a = [1, 2, 3; 
+     6, 5, 4; 
+     7, 8, 10]
+b = [1, 2, 3];
+
+n = length(b);
+for j = 1 : (n-1)
+    if a(j, j) == 0
+        for k = j+1 : n
+            if a(k, j) ~= 0
+                [r] = a(k, :);     
+                a(k, :) = a(j, :); 
+                a(j, :) = [r];     
+                t = b(k);    
+                b(k) = b(j); 
+                b(j) = t;    
+                break
+            elseif k == n
+                fprintf('no unique solution');
+                return
+            end
+        end
+    end
+    for i = j+1 : n
+        m = a(i, j) / a(j, j);
+        a(i, :) = a(i, :) - m * a(j, :);
+        b(i) = b(i) - m * b(j);
+    end
+end
+if a(n, n) == 0
+    fprintf('the sys has no solution')
+    return
+end
+
+x(n) = b(n) / a(n, n);
+for i = n-1 : -1 : 1
+    r = 0;
+    for j = (i+1) : n
+        r = r + a(i, j) * x(j);
+    end
+    x(i) = (b(i) - r) / a(i, i);
+end
+
+[x]

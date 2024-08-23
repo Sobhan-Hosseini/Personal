@@ -1,0 +1,17 @@
+%{
+Differential Equation Solver
+Authors: Seyed Sobhan Hosseini
+Date: ‎Sunday, ‎June ‎25, ‎2023, ‏‎1:04:19 PM
+%}
+
+syms y(t) a b
+
+eqn = diff(y,t,2) + diff(y, t, 1) + y == 0;
+
+Dy  = diff(y, t, 1);
+
+cond = [y(0)==1, Dy(0)==-2];
+
+ySol(t) = dsolve(eqn,cond);
+
+ySol

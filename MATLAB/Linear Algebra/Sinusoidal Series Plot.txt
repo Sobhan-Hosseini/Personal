@@ -1,0 +1,27 @@
+%{
+Sinusoidal Series Plot
+Authors: Seyed Sobhan Hosseini
+Date: ‎Sunday, ‎June ‎25, ‎2023, ‏‎1:04:19 PM
+%}
+
+a = pi/2;
+x = -10 : 0.1 : 10;
+y = cos(x); 
+n = 100;
+
+plot(x, y, 'b')
+title('Taylor series')
+xlabel('x')
+ylabel('cos(x)')
+axis([-10 10 -2 2])
+hold on 
+
+z = [0 -1 0 1]; 
+for i = 0 : n-1
+    t(i+1, :) = z(1) * (x-a).^(i) / factorial(i);
+    z = circshift(z, -1);
+end
+stp = sum(t);
+
+plot(x, stp, '--', 'Linewidth', 2) 
+

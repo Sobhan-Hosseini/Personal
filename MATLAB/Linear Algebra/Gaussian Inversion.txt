@@ -1,0 +1,56 @@
+%{
+Gaussian Inversion
+Authors: Seyed Sobhan Hosseini
+Date: Sunday, ‎June ‎25, ‎2023, ‏‎1:04:19 PM
+%}
+
+a = [1, 2, 3;
+     6, 5, 4;
+     7, 8, 10]
+
+b = [a eye(3)];
+n1 = length(a);
+n2 = length(b);
+[b]
+
+for i=1:(n1-1)
+    if b(i,i) == 0
+        for j = i+1 : (n1)
+            if b(i,j) ~= 0
+                [h] = b(i,:);
+                b(j,:) = b(i,:);
+                b(i,:) = [h];
+            break
+            else if j == n1
+                    fprintf('There is no inverse for this matrix.');
+                    return
+            end
+            end
+        end
+    end
+end
+
+for i = 1:(n1-1)
+    for j = i+1:n1
+        m = b(j,i) / b(i,i);
+        b(j,:) = b(j,:) - m*b(i,:);
+    end
+end
+
+for i = 1:(n1-1)
+    for j = i+1 : n1
+        if b(i,j) ~= 0
+            m = b(i,j) / b(j,j);
+            b(i,:) = b(i,:) - m*b(j,:);
+        end
+    end
+end
+
+for i = 1:(n1-1)
+    if b(i,i) ~= 1
+        b(i,:) = b(i,:)/b(i,i);
+    end
+end
+
+fprintf('The inverse matrix is : ');
+b(:,n1+1: 2*n1)
