@@ -1,6 +1,6 @@
 /*
   A-Star Algorithm
-  Authors: Seyed Sobhan Hosseini - Amirhossein Gholizadeh
+  Authors: Amirhossein Gholizadeh - Seyed Sobhan Hosseini
   Date: ‎Spring 2024
 */
 
