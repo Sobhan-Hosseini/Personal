@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "ESP32_Support",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
