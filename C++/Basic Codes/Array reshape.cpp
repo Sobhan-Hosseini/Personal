@@ -1,7 +1,7 @@
 /*
   Array reshape
   Author: Seyed Sobhan Hosseini
-  Date: Tuesday, May 30, 2023, 8:55:44 PM
+  Date: Summer 2023
 */
 
 #include <iostream>
